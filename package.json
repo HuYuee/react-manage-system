@@ -1,0 +1,27 @@
+{
+  "name": "react-manage-system",
+  "version": "1.0.0",
+  "description": "前端使用react+mobx+antd实现的管理页面",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuYuee/react-manage-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuYuee/react-manage-system/issues"
+  },
+  "homepage": "https://github.com/HuYuee/react-manage-system#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
