@@ -14,9 +14,11 @@
   },
   "homepage": "https://github.com/HuYuee/react-manage-system#readme",
   "dependencies": {
+    "axios": "^0.16.2",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-scripts": "1.0.10"
+    "react-scripts": "1.0.10",
+    "tinper-bee": "^0.5.3"
   },
   "scripts": {
     "start": "react-scripts start",
